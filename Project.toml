@@ -1,3 +1,5 @@
+[deps]
+Oceananigans = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
+
 [compat]
 julia = "1.7"
-Oceananigans = "0.71.5"
